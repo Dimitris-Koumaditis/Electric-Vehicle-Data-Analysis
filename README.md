@@ -23,4 +23,4 @@ The objective of this project is to identify:
 **9. Top 10 Total Vehicles by Model:** Highlights the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
 ## Resources: 
-* [Dashboards Story](https://lnkd.in/efxBt6MK) in Tableau.
+* [Dashboards Story](https://public.tableau.com/app/profile/dimitris.koumaditis/viz/Book2_17194077748680/Dashboard1) in Tableau.
