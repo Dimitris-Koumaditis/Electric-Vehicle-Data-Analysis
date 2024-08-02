@@ -1,4 +1,5 @@
 # Electric-Vehicle-Data-Analysis
+![electric vehicle](https://github.com/user-attachments/assets/ea7fe56a-cabf-45e3-91d6-14534c1e3f52)
 
 ## Project description:
 
